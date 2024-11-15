@@ -1,0 +1,1564 @@
+tag,sex,mouseid,day,object,behavior,start,end,cohort,genotype,treatment
+3427,M,3427M ,2,1,climbing,1:01,1:02,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,climbing,2:50,2:51,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,climbing,3:16,3:18,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,climbing,5:16,5:18,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,climbing,6:30,6:34,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,climbing,6:40,6:43,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,climbing,7:41,7:44,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,climbing,7:53,7:54,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,climbing,7:57,7:58,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,gen sniff/poke,0:21,0:22,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,gen sniff/poke,5:28,5:29,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,gen sniff/poke,6:26,6:27,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,gen sniff/poke,7:39,7:40,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,gen sniff/poke,7:45,7:47,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,gen sniff/poke,7:51,7:52,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,direct sniff,1:03,1:04,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,1,direct sniff,3:14,3:15,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,climbing,0:54,0:56,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,climbing,2:05,2:07,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,climbing,2:14,2:16,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,climbing,2:27,2:29,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,climbing,2:33,2:34,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,climbing,3:58,4:01,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,climbing,4:40,4:41,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,climbing,5:39,5:42,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,climbing,6:12,6:18,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,gen sniff/poke,0:52,0:53,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,gen sniff/poke,1:50,1:51,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,gen sniff/poke,3:57,3:58,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,gen sniff/poke,4:02,4:03,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,gen sniff/poke,4:38,4:39,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,gen sniff/poke,8:12,8:13,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,direct sniff,0:10,0:11,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,direct sniff,2:13,2:14,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,2,2,direct sniff,2:29,2:30,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,climbing,1:57,1:59,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,climbing,3:23,3:24,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,climbing,6:31,6:33,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,climbing,7:43,7:45,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,climbing,9:17,9:19,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,gen sniff/poke,1:43,1:45,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,gen sniff/poke,3:41,3:42,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,gen sniff/poke,6:35,6:36,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,gen sniff/poke,9:32,9:33,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,gen sniff/poke,9:35,9:36,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,1,direct sniff,0:08,0:09,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,climbing,0:02,0:03,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,climbing,2:13,2:15,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,climbing,2:33,2:34,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,climbing,3:49,3:52,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,climbing,7:28,7:30,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,climbing,7:55,7:57,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,climbing,9:10,9:12,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,gen sniff/poke,2:08,2:09,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,gen sniff/poke,2:11,2:12,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,gen sniff/poke,7:27,7:28,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,direct sniff,0:52,0:53,3,Rbp4-LMO3,CTZ
+3427,M,3427M ,3,2,direct sniff,7:31,7:32,3,Rbp4-LMO3,CTZ
+3428,M,3428M ,2,1,gen sniff/poke,1:53,1:54,3,wt-LMO3,CTZ
+3428,M,3428M ,2,1,gen sniff/poke,2:07,2:10,3,wt-LMO3,CTZ
+3428,M,3428M ,2,1,direct sniff,1:25,1:26,3,wt-LMO3,CTZ
+3428,M,3428M ,2,1,direct sniff,3:08,3:10,3,wt-LMO3,CTZ
+3428,M,3428M ,2,1,direct sniff,5:36,5:37,3,wt-LMO3,CTZ
+3428,M,3428M ,2,1,direct sniff,5:59,6:00,3,wt-LMO3,CTZ
+3428,M,3428M ,2,1,direct sniff,9:56,9:57,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,climbing,2:23,2:24,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,climbing,6:52,6:57,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,climbing,7:01,7:03,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,climbing,7:03,7:07,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,climbing,7:09,7:13,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,climbing,8:27,8:29,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,climbing,9:14,9:18,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,gen sniff/poke,2:24,2:25,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,gen sniff/poke,8:22,8:23,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,direct sniff,0:17,0:18,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,direct sniff,1:44,1:46,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,direct sniff,6:22,6:25,3,wt-LMO3,CTZ
+3428,M,3428M ,2,2,direct sniff,8:46,8:49,3,wt-LMO3,CTZ
+3428,M,3428M ,3,1,climbing,3:08,3:10,3,wt-LMO3,CTZ
+3428,M,3428M ,3,1,climbing,3:38,3:39,3,wt-LMO3,CTZ
+3428,M,3428M ,3,1,climbing,5:10,5:13,3,wt-LMO3,CTZ
+3428,M,3428M ,3,1,climbing,5:24,5:27,3,wt-LMO3,CTZ
+3428,M,3428M ,3,1,gen sniff/poke,3:10,3:11,3,wt-LMO3,CTZ
+3428,M,3428M ,3,1,gen sniff/poke,5:14,5:16,3,wt-LMO3,CTZ
+3428,M,3428M ,3,1,direct sniff,5:19,5:20,3,wt-LMO3,CTZ
+3428,M,3428M ,3,2,climbing,0:34,0:35,3,wt-LMO3,CTZ
+3428,M,3428M ,3,2,climbing,1:29,1:30,3,wt-LMO3,CTZ
+3428,M,3428M ,3,2,climbing,3:45,3:47,3,wt-LMO3,CTZ
+3428,M,3428M ,3,2,climbing,3:50,3:52,3,wt-LMO3,CTZ
+3428,M,3428M ,3,2,climbing,4:51,4:57,3,wt-LMO3,CTZ
+3428,M,3428M ,3,2,climbing,8:12,8:13,3,wt-LMO3,CTZ
+3428,M,3428M ,3,2,direct sniff,3:48,3:50,3,wt-LMO3,CTZ
+3429,F,3429F,2,1,direct sniff,7:36,7:37,3,wt-LMO3,CTZ
+3429,F,3429F,2,2,gen sniff/poke,3:15,3:16,3,wt-LMO3,CTZ
+3429,F,3429F,2,2,gen sniff/poke,4:11,4:13,3,wt-LMO3,CTZ
+3429,F,3429F,2,2,direct sniff,8:29,8:30,3,wt-LMO3,CTZ
+3429,F,3429F,2,2,direct sniff,8:59,9:00,3,wt-LMO3,CTZ
+3429,F,3429F,3,1,climbing,3:39,3:41,3,wt-LMO3,CTZ
+3429,F,3429F,3,1,gen sniff/poke,4:11,4:12,3,wt-LMO3,CTZ
+3429,F,3429F,3,1,gen sniff/poke,6:06,6:07,3,wt-LMO3,CTZ
+3429,F,3429F,3,1,direct sniff,3:38,3:39,3,wt-LMO3,CTZ
+3429,F,3429F,3,2,gen sniff/poke,0:08,0:09,3,wt-LMO3,CTZ
+3429,F,3429F,3,2,gen sniff/poke,4:26,4:28,3,wt-LMO3,CTZ
+3429,F,3429F,3,2,gen sniff/poke,8:18,8:20,3,wt-LMO3,CTZ
+3429,F,3429F,3,2,direct sniff,4:02,4:04,3,wt-LMO3,CTZ
+3430,F,3430F,2,1,direct sniff,0:07,0:08,3,,
+3430,F,3430F,2,1,direct sniff,4:24,4:25,3,,
+3430,F,3430F,3,1,direct sniff,1:35,1:36,3,,
+3430,F,3430F,3,1,direct sniff,2:16,2:17,3,,
+3430,F,3430F,3,2,direct sniff,2:44,2:45,3,,
+3430,F,3430F,3,2,direct sniff,3:39,3:40,3,,
+3430,F,3430F,3,2,direct sniff,5:59,6:00,3,,
+3430,F,3430F,3,2,direct sniff,8:06,8:07,3,,
+3432,M,3432M,2,1,climbing,8:05,8:07,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,1,direct sniff,2:48,2:49,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,1,direct sniff,3:19,3:21,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,1,direct sniff,4:57,4:58,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,1,direct sniff,5:36,5:37,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,1,direct sniff,5:41,5:42,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,1,direct sniff,6:56,6:57,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,1,direct sniff,8:37,8:38,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,1,direct sniff,8:57,8:59,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,2,direct sniff,2:02,2:03,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,2,direct sniff,4:04,4:05,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,2,direct sniff,4:31,4:32,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,2,direct sniff,4:45,4:46,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,2,direct sniff,5:51,5:52,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,1,gen sniff/poke,8:36,8:37,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,1,direct sniff,0:48,0:49,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,1,direct sniff,2:59,3:00,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,1,direct sniff,5:12,5:13,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,1,direct sniff,7:13,7:14,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,1,direct sniff,9:30,9:31,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,2,direct sniff,2:15,2:16,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,2,direct sniff,4:06,4:07,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,2,direct sniff,6:28,6:29,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,2,direct sniff,6:38,6:39,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,2,direct sniff,8:49,8:50,4,Rbp4-LMO3,CTZ
+3433,M,3433M ,2,1,climbing,3:35,3:37,4,,
+3433,M,3433M ,2,1,climbing,5:04,5:06,4,,
+3433,M,3433M ,2,1,climbing,8:23,8:25,4,,
+3433,M,3433M ,2,1,gen sniff/poke,4:48,4:49,4,,
+3433,M,3433M ,2,1,direct sniff,8:22,8:23,4,,
+3433,M,3433M ,2,1,direct sniff,9:48,9:49,4,,
+3433,M,3433M ,2,2,climbing,3:22,3:26,4,,
+3433,M,3433M ,2,2,climbing,4:04,4:07,4,,
+3433,M,3433M ,2,2,climbing,5:43,5:45,4,,
+3433,M,3433M ,2,2,climbing,6:54,6:55,4,,
+3433,M,3433M ,2,2,climbing,7:41,7:45,4,,
+3433,M,3433M ,2,2,gen sniff/poke,1:16,1:18,4,,
+3433,M,3433M ,2,2,direct sniff,4:20,4:21,4,,
+3433,M,3433M ,3,1,climbing,0:38,0:40,4,,
+3433,M,3433M ,3,1,climbing,2:20,2:22,4,,
+3433,M,3433M ,3,1,climbing,5:45,5:48,4,,
+3433,M,3433M ,3,1,climbing,5:54,5:56,4,,
+3433,M,3433M ,3,1,climbing,7:55,7:59,4,,
+3433,M,3433M ,3,1,climbing,8:17,8:18,4,,
+3433,M,3433M ,3,1,gen sniff/poke,5:59,6:00,4,,
+3433,M,3433M ,3,1,direct sniff,2:40,2:41,4,,
+3433,M,3433M ,3,2,climbing,0:31,0:33,4,,
+3433,M,3433M ,3,2,climbing,3:04,3:05,4,,
+3433,M,3433M ,3,2,climbing,4:13,4:15,4,,
+3433,M,3433M ,3,2,climbing,7:39,7:40,4,,
+3433,M,3433M ,3,2,climbing,8:34,8:35,4,,
+3433,M,3433M ,3,2,gen sniff/poke,2:49,2:50,4,,
+3433,M,3433M ,3,2,gen sniff/poke,7:41,7:45,4,,
+3433,M,3433M ,3,2,direct sniff,0:30,0:31,4,,
+3433,M,3433M ,3,2,direct sniff,3:03,3:04,4,,
+3434,M,3434M ,2,1,direct sniff,3:04,3:05,4,wt-LMO3,CTZ
+3434,M,3434M ,2,1,direct sniff,6:49,6:50,4,wt-LMO3,CTZ
+3434,M,3434M ,2,2,gen sniff/poke,5:57,5:58,4,wt-LMO3,CTZ
+3434,M,3434M ,2,2,direct sniff,0:23,0:24,4,wt-LMO3,CTZ
+3434,M,3434M ,2,2,direct sniff,2:13,2:14,4,wt-LMO3,CTZ
+3434,M,3434M ,3,1,climbing,4:44,4:45,4,wt-LMO3,CTZ
+3434,M,3434M ,3,1,climbing,7:57,7:58,4,wt-LMO3,CTZ
+3434,M,3434M ,3,1,direct sniff,4:43,4:44,4,wt-LMO3,CTZ
+3434,M,3434M ,3,1,direct sniff,6:04,6:05,4,wt-LMO3,CTZ
+3434,M,3434M ,3,1,direct sniff,7:55,7:57,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,climbing,3:57,3:58,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,climbing,4:59,5:00,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,climbing,9:45,9:47,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,climbing,9:52,9:55,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,gen sniff/poke,1:48,1:49,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,gen sniff/poke,8:52,8:53,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,direct sniff,3:55,3:57,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,direct sniff,4:57,4:58,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,direct sniff,7:11,7:12,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,direct sniff,7:14,7:15,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,direct sniff,8:56,8:58,4,wt-LMO3,CTZ
+3434,M,3434M ,3,2,direct sniff,9:42,9:44,4,wt-LMO3,CTZ
+3435,M,3435M ,2,1,direct sniff,6:34,6:35,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,2,2,direct sniff,2:46,2:48,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,2,2,direct sniff,4:26,4:27,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,2,2,direct sniff,8:58,8:59,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,3,2,direct sniff,5:33,5:34,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,3,2,direct sniff,7:24,7:25,4,Rbp4-LMO3,CTZ
+3436,M,3436M,2,1,climbing,5:33,5:38,4,wt-LMO3,CTZ
+3436,M,3436M,2,1,gen sniff/poke,2:48,2:49,4,wt-LMO3,CTZ
+3436,M,3436M,2,1,gen sniff/poke,7:16,7:18,4,wt-LMO3,CTZ
+3436,M,3436M,2,2,climbing,3:37,3:39,4,wt-LMO3,CTZ
+3436,M,3436M,2,2,gen sniff/poke,3:30,3:31,4,wt-LMO3,CTZ
+3436,M,3436M,2,2,gen sniff/poke,9:49,9:50,4,wt-LMO3,CTZ
+3436,M,3436M,2,2,gen sniff/poke,9:56,9:57,4,wt-LMO3,CTZ
+3436,M,3436M,3,1,climbing,3:55,3:57,4,wt-LMO3,CTZ
+3436,M,3436M,3,1,gen sniff/poke,7:37,7:39,4,wt-LMO3,CTZ
+3436,M,3436M,3,1,direct sniff,7:49,7:50,4,wt-LMO3,CTZ
+3436,M,3436M,3,2,climbing,3:47,3:48,4,wt-LMO3,CTZ
+3436,M,3436M,3,2,climbing,7:58,7:59,4,wt-LMO3,CTZ
+3436,M,3436M,3,2,gen sniff/poke,3:44,3:45,4,wt-LMO3,CTZ
+3436,M,3436M,3,2,gen sniff/poke,7:46,7:48,4,wt-LMO3,CTZ
+3436,M,3436M,3,2,gen sniff/poke,8:28,8:30,4,wt-LMO3,CTZ
+3436,M,3436M,3,2,direct sniff,1:52,1:53,4,wt-LMO3,CTZ
+3436,M,3436M,3,2,direct sniff,2:12,2:13,4,wt-LMO3,CTZ
+3437,F,3437F,2,1,gen sniff/poke,3:14,3:16,4,Rbp4-LMO3,CTZ
+3437,F,3437F,2,1,gen sniff/poke,4:43,4:44,4,Rbp4-LMO3,CTZ
+3437,F,3437F,2,2,direct sniff,3:09,3:10,4,Rbp4-LMO3,CTZ
+3437,F,3437F,2,2,direct sniff,6:19,6:20,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,1,direct sniff,1:40,1:41,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,1,direct sniff,3:13,3:14,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,1,direct sniff,4:15,4:16,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,1,direct sniff,4:44,4:45,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,1,direct sniff,4:47,4:48,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,2,direct sniff,1:16,1:17,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,2,direct sniff,2:41,2:42,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,2,direct sniff,4:13,4:14,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,2,direct sniff,4:33,4:34,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,2,direct sniff,5:16,5:17,4,Rbp4-LMO3,CTZ
+3438,F,3438F,2,1,direct sniff,1:04,1:05,4,wt-LMO3,CTZ
+3438,F,3438F,2,1,direct sniff,2:21,2:22,4,wt-LMO3,CTZ
+3438,F,3438F,2,1,direct sniff,3:37,3:38,4,wt-LMO3,CTZ
+3438,F,3438F,2,1,direct sniff,3:54,3:55,4,wt-LMO3,CTZ
+3438,F,3438F,2,1,direct sniff,7:08,7:09,4,wt-LMO3,CTZ
+3438,F,3438F,2,1,direct sniff,8:13,8:15,4,wt-LMO3,CTZ
+3438,F,3438F,2,2,direct sniff,0:51,0:52,4,wt-LMO3,CTZ
+3438,F,3438F,2,2,direct sniff,2:09,2:10,4,wt-LMO3,CTZ
+3438,F,3438F,2,2,direct sniff,2:23,2:24,4,wt-LMO3,CTZ
+3438,F,3438F,2,2,direct sniff,3:45,3:46,4,wt-LMO3,CTZ
+3438,F,3438F,2,2,direct sniff,4:00,4:02,4,wt-LMO3,CTZ
+3438,F,3438F,2,2,direct sniff,6:43,6:44,4,wt-LMO3,CTZ
+3438,F,3438F,2,2,direct sniff,7:03,7:04,4,wt-LMO3,CTZ
+3438,F,3438F,3,1,direct sniff,4:12,4:13,4,wt-LMO3,CTZ
+3438,F,3438F,3,1,direct sniff,4:39,4:40,4,wt-LMO3,CTZ
+3438,F,3438F,3,1,direct sniff,6:58,6:59,4,wt-LMO3,CTZ
+3438,F,3438F,3,2,direct sniff,2:56,2:57,4,wt-LMO3,CTZ
+3438,F,3438F,3,2,direct sniff,2:57,2:59,4,wt-LMO3,CTZ
+3438,F,3438F,3,2,direct sniff,4:44,4:46,4,wt-LMO3,CTZ
+3438,F,3438F,3,2,direct sniff,4:54,4:55,4,wt-LMO3,CTZ
+3438,F,3438F,3,2,direct sniff,5:20,5:21,4,wt-LMO3,CTZ
+3438,F,3438F,3,2,direct sniff,6:34,6:36,4,wt-LMO3,CTZ
+3438,F,3438F,3,2,direct sniff,7:08,7:10,4,wt-LMO3,CTZ
+3439,F,3439F,2,1,gen sniff/poke,4:12,4:13,4,Rbp4-LMO3,CTZ
+3439,F,3439F,2,1,direct sniff,0:20,0:21,4,Rbp4-LMO3,CTZ
+3439,F,3439F,2,1,direct sniff,0:51,0:52,4,Rbp4-LMO3,CTZ
+3439,F,3439F,2,1,direct sniff,2:56,2:57,4,Rbp4-LMO3,CTZ
+3439,F,3439F,2,1,direct sniff,7:26,7:27,4,Rbp4-LMO3,CTZ
+3439,F,3439F,2,1,direct sniff,8:52,8:53,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,2,direct sniff,1:02,1:03,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,2,direct sniff,1:52,1:53,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,2,direct sniff,5:21,5:22,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,2,direct sniff,5:26,5:28,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,2,direct sniff,7:06,7:07,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,1,climbing,8:16,8:19,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,1,climbing,8:23,8:26,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,1,gen sniff/poke,2:45,2:46,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,1,gen sniff/poke,5:43,5:44,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,1,direct sniff,4:58,4:59,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,1,direct sniff,8:41,8:42,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,gen sniff/poke,2:44,2:45,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,direct sniff,3:57,3:59,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,direct sniff,4:50,4:51,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,direct sniff,5:36,5:37,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,direct sniff,5:38,5:39,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,direct sniff,6:47,6:49,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,direct sniff,7:39,7:40,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,direct sniff,8:03,8:06,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,direct sniff,8:08,8:09,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,direct sniff,8:28,8:30,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,climbing,4:29,4:31,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,climbing,4:29,4:31,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,climbing,4:56,4:58,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,climbing,4:56,4:58,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,climbing,8:39,8:40,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,climbing,8:39,8:40,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,gen sniff/poke,1:17,1:18,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,gen sniff/poke,1:17,1:18,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,gen sniff/poke,3:07,3:08,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,gen sniff/poke,3:07,3:08,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,gen sniff/poke,8:38,8:39,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,gen sniff/poke,8:38,8:39,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,direct sniff,1:30,1:31,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,direct sniff,1:30,1:31,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,direct sniff,3:05,3:06,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,direct sniff,3:05,3:06,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,direct sniff,7:18,7:19,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,1,direct sniff,7:18,7:19,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,4:05,4:07,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,4:05,4:07,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,7:02,7:06,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,7:02,7:06,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,7:07,7:10,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,7:07,7:10,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,7:13,7:16,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,7:13,7:16,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,8:16,8:22,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,climbing,8:16,8:22,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,gen sniff/poke,0:05,0:07,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,gen sniff/poke,0:05,0:07,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,gen sniff/poke,2:21,2:22,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,gen sniff/poke,2:21,2:22,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,gen sniff/poke,2:35,2:36,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,gen sniff/poke,2:35,2:36,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,gen sniff/poke,4:03,4:04,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,gen sniff/poke,4:03,4:04,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,direct sniff,6:32,6:33,4,Rbp4-LMO3,CTZ
+3440,F,3440F,2,2,direct sniff,6:32,6:33,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,1,climbing,4:32,4:35,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,1,climbing,4:32,4:35,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,climbing,3:04,3:06,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,climbing,3:04,3:06,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,climbing,3:23,3:24,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,climbing,3:23,3:24,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,gen sniff/poke,0:39,0:40,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,gen sniff/poke,0:39,0:40,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,gen sniff/poke,3:43,3:44,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,gen sniff/poke,3:43,3:44,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,direct sniff,7:40,7:41,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,2,direct sniff,7:40,7:41,4,Rbp4-LMO3,CTZ
+3441,M,3441M,2,1,direct sniff,0:14,0:15,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,1,direct sniff,3:17,3:18,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,1,direct sniff,9:07,9:08,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,2,direct sniff,0:10,0:11,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,2,direct sniff,1:15,1:16,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,2,direct sniff,3:00,3:01,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,2,direct sniff,9:00,9:01,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,2,direct sniff,9:57,9:58,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,3,1,gen sniff/poke,0:22,0:23,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,3,1,direct sniff,5:31,5:32,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,3,2,direct sniff,3:51,3:52,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,3,2,direct sniff,5:08,5:09,5,Rbp4-LMO3,CTZ 
+3442,M,3442M,2,1,gen sniff/poke,0:48,0:49,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,gen sniff/poke,2:17,2:18,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,gen sniff/poke,5:26,5:27,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,direct sniff,2:34,2:35,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,direct sniff,2:48,2:50,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,direct sniff,4:39,4:40,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,direct sniff,5:10,5:11,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,direct sniff,5:12,5:13,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,direct sniff,6:21,6:23,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,direct sniff,6:23,6:25,5,wt-LMO3,CTZ
+3442,M,3442M,2,1,direct sniff,8:54,8:55,5,wt-LMO3,CTZ
+3442,M,3442M,2,2,gen sniff/poke,2:31,2:32,5,wt-LMO3,CTZ
+3442,M,3442M,2,2,gen sniff/poke,9:52,9:53,5,wt-LMO3,CTZ
+3442,M,3442M,2,2,direct sniff,0:16,0:17,5,wt-LMO3,CTZ
+3442,M,3442M,2,2,direct sniff,2:42,2:43,5,wt-LMO3,CTZ
+3442,M,3442M,2,2,direct sniff,4:07,4:09,5,wt-LMO3,CTZ
+3442,M,3442M,2,2,direct sniff,5:19,5:23,5,wt-LMO3,CTZ
+3442,M,3442M,2,2,direct sniff,5:44,5:45,5,wt-LMO3,CTZ
+3442,M,3442M,2,2,direct sniff,5:46,5:47,5,wt-LMO3,CTZ
+3442,M,3442M,3,1,direct sniff,1:41,1:44,5,wt-LMO3,CTZ
+3442,M,3442M,3,1,direct sniff,2:05,2:06,5,wt-LMO3,CTZ
+3442,M,3442M,3,1,direct sniff,5:38,5:40,5,wt-LMO3,CTZ
+3442,M,3442M ,3,2,gen sniff/poke,4:08,4:12,5,wt-LMO3,CTZ
+3442,M,3442M ,3,2,gen sniff/poke,5:32,5:33,5,wt-LMO3,CTZ
+3442,M,3442M ,3,2,direct sniff,1:28,1:29,5,wt-LMO3,CTZ
+3442,M,3442M ,3,2,direct sniff,1:29,1:31,5,wt-LMO3,CTZ
+3442,M,3442M ,3,2,direct sniff,1:45,1:46,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,climbing,3:50,3:51,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,climbing,4:00,4:02,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,climbing,8:53,8:55,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,climbing,9:00,9:01,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,gen sniff/poke,1:29,1:30,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,gen sniff/poke,9:06,9:08,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,direct sniff,3:47,2:50,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,direct sniff,3:53,3:54,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,direct sniff,3:58,3:40,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,direct sniff,8:52,8:53,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,direct sniff,8:57,8:58,5,wt-LMO3,CTZ
+3444,F,3444F,2,1,direct sniff,9:12,9:14,5,wt-LMO3,CTZ
+3444,F,3444F,2,2,climbing,2:46,2:48,5,wt-LMO3,CTZ
+3444,F,3444F,2,2,gen sniff/poke,2:48,2:49,5,wt-LMO3,CTZ
+3444,F,3444F,2,2,direct sniff,2:44,2:46,5,wt-LMO3,CTZ
+3444,F,3444F,2,2,direct sniff,2:53,2:54,5,wt-LMO3,CTZ
+3444,F,3444F,2,2,direct sniff,6:41,6:43,5,wt-LMO3,CTZ
+3444,F,3444F,2,2,direct sniff,9:32,9:36,5,wt-LMO3,CTZ
+3444,F,3444F,3,1,climbing,3:36,3:37,5,wt-LMO3,CTZ
+3444,F,3444F,3,1,gen sniff/poke,0:43,0:44,5,wt-LMO3,CTZ
+3444,F,3444F,3,1,gen sniff/poke,0:57,0:58,5,wt-LMO3,CTZ
+3444,F,3444F,3,1,gen sniff/poke,2:00,2:01,5,wt-LMO3,CTZ
+3444,F,3444F,3,1,gen sniff/poke,7:48,7:49,5,wt-LMO3,CTZ
+3444,F,3444F,3,1,direct sniff,0:29,0:31,5,wt-LMO3,CTZ
+3444,F,3444F,3,1,direct sniff,3:30,3:32,5,wt-LMO3,CTZ
+3444,F,3444F,3,1,direct sniff,3:33,3:35,5,wt-LMO3,CTZ
+3444,F,3444F,3,2,gen sniff/poke,2:53,2:54,5,wt-LMO3,CTZ
+3444,F,3444F,3,2,gen sniff/poke,2:56,2:57,5,wt-LMO3,CTZ
+3444,F,3444F,3,2,gen sniff/poke,4:56,4:57,5,wt-LMO3,CTZ
+3444,F,3444F,3,2,direct sniff,0:39,0:40,5,wt-LMO3,CTZ
+3444,F,3444F,3,2,direct sniff,9:00,9:02,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,direct sniff,0:33,0:34,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,direct sniff,1:03,1:04,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,direct sniff,1:50,1:51,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,direct sniff,2:54,2:55,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,direct sniff,3:16,3:18,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,direct sniff,4:01,4:02,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,direct sniff,4:55,4:56,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,direct sniff,7:50,7:51,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,climbing,1:12,1:14,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,climbing,4:43,4:49,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,climbing,7:09,7:11,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,climbing,8:37,8:39,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,climbing,8:44,8:46,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,climbing,8:48,8:49,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,climbing,9:13,9:14,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,climbing,9:19,9:21,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,gen sniff/poke,2:04,2:05,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,gen sniff/poke,2:15,2:16,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,gen sniff/poke,6:54,6:55,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,gen sniff/poke,9:17,9:18,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,gen sniff/poke,9:24,9:25,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,direct sniff,0:37,0:38,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,direct sniff,2:50,2:51,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,direct sniff,4:39,4:41,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,direct sniff,8:36,8:37,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,direct sniff,8:46,8:48,5,wt-LMO3,CTZ
+3445,F,3445F ,2,2,direct sniff,9:06,9:12,5,wt-LMO3,CTZ
+3445,F,3445F,3,1,climbing,2:20,2:21,5,wt-LMO3,CTZ
+3445,F,3445F,3,1,climbing,4:49,4:54,5,wt-LMO3,CTZ
+3445,F,3445F,3,1,climbing,4:58,5:00,5,wt-LMO3,CTZ
+3445,F,3445F,3,1,climbing,7:29,7:31,5,wt-LMO3,CTZ
+3445,F,3445F,3,1,direct sniff,4:38,4:39,5,wt-LMO3,CTZ
+3445,F,3445F,3,1,direct sniff,4:55,4:56,5,wt-LMO3,CTZ
+3445,F,3445F,3,1,direct sniff,7:07,7:09,5,wt-LMO3,CTZ
+3445,F,3445F,3,1,direct sniff,8:46,8:47,5,wt-LMO3,CTZ
+3445,F,3445F,3,2,climbing,4:11,4:15,5,wt-LMO3,CTZ
+3445,F,3445F,3,2,climbing,5:28,5:36,5,wt-LMO3,CTZ
+3445,F,3445F,3,2,climbing,9:10,9:13,5,wt-LMO3,CTZ
+3445,F,3445F,3,2,climbing,9:19,9:23,5,wt-LMO3,CTZ
+3445,F,3445F,3,2,gen sniff/poke,3:08,3:11,5,wt-LMO3,CTZ
+3445,F,3445F,3,2,gen sniff/poke,4:44,4:45,5,wt-LMO3,CTZ
+3445,F,3445F,3,2,direct sniff,2:44,2:45,5,wt-LMO3,CTZ
+3445,F,3445F,3,2,direct sniff,4:18,4:21,5,wt-LMO3,CTZ
+3445,F,3445F,3,2,direct sniff,9:08,9:10,5,wt-LMO3,CTZ
+3514,M,3514M,2,1,gen sniff/poke,4:37,4:48,6,wt-LMO3,CTZ
+3514,M,3514M,2,1,direct sniff,7:08,7:09,6,wt-LMO3,CTZ
+3514,M,3514M,2,1,direct sniff,9:34,9:35,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,gen sniff/poke,0:25,0:26,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,gen sniff/poke,1:59,2:00,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,gen sniff/poke,4:15,4:16,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,gen sniff/poke,4:18,4:19,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,gen sniff/poke,5:20,5:21,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,gen sniff/poke,6:44,6:45,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,gen sniff/poke,6:48,6:49,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,direct sniff,0:31,0:32,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,direct sniff,3:15,3:16,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,direct sniff,9:13,9:15,6,wt-LMO3,CTZ
+3514,M,3514M ,2,2,direct sniff,9:25,9:26,6,wt-LMO3,CTZ
+3514,M,3514M ,3,1,gen sniff/poke,6:14,6:15,6,wt-LMO3,CTZ
+3514,M,3514M ,3,1,direct sniff,4:01,4:02,6,wt-LMO3,CTZ
+3514,M,3514M ,3,1,direct sniff,4:35,4:36,6,wt-LMO3,CTZ
+3514,M,3514M ,3,1,direct sniff,9:51,9:52,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,climbing,4:53,4:54,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,climbing,5:59,6:04,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,direct sniff,0:15,0:16,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,direct sniff,2:44,2:45,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,direct sniff,2:45,2:46,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,direct sniff,2:54,2:57,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,direct sniff,3:54,3:55,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,direct sniff,5:25,5:26,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,direct sniff,6:07,6:08,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,direct sniff,7:19,7:20,6,wt-LMO3,CTZ
+3515,M,3515M,2,1,gen sniff/poke,4:12,4:13,6,Rbp4-LMO3,CTZ
+3515,M,3515M,2,1,gen sniff/poke,6:02,6:03,6,Rbp4-LMO3,CTZ
+3515,M,3515M,2,2,direct sniff,2:41,2:42,6,Rbp4-LMO3,CTZ
+3515,M,3515M,3,1,direct sniff,7:20,7:21,6,Rbp4-LMO3,CTZ
+3515,M,3515M,3,2,gen sniff/poke,5:35,5:36,6,Rbp4-LMO3,CTZ
+3516,M,3516M,2,1,gen sniff/poke,1:04,1:05,6,wt-LMO3,CTZ
+3516,M,3516M,2,1,gen sniff/poke,3:29,3:30,6,wt-LMO3,CTZ
+3516,M,3516M,2,1,direct sniff,3:27,3:28,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,direct sniff,0:09,0:10,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,direct sniff,0:12,0:13,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,direct sniff,0:37,0:39,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,direct sniff,3:11,3:13,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,direct sniff,4:02,4:05,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,direct sniff,4:06,4:07,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,direct sniff,4:44,4:45,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,direct sniff,8:21,8:22,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,direct sniff,8:48,8:49,6,wt-LMO3,CTZ
+3516,M,3516M,3,1,direct sniff,6:32,6:33,6,wt-LMO3,CTZ
+3516,M,3516M,3,1,direct sniff,6:34,6:35,6,wt-LMO3,CTZ
+3516,M,3516M,3,1,direct sniff,6:37,6:38,6,wt-LMO3,CTZ
+3516,M,3516M ,3,2,gen sniff/poke,8:46,8:47,6,wt-LMO3,CTZ
+3516,M,3516M ,3,2,direct sniff,3:20,3:21,6,wt-LMO3,CTZ
+3516,M,3516M ,3,2,direct sniff,7:10,7:11,6,wt-LMO3,CTZ
+3516,M,3516M ,3,2,direct sniff,7:35,7:36,6,wt-LMO3,CTZ
+3516,M,3516M ,3,2,direct sniff,7:42,7:43,6,wt-LMO3,CTZ
+3516,M,3516M ,3,2,direct sniff,7:47,7:48,6,wt-LMO3,CTZ
+3516,M,3516M ,3,2,direct sniff,8:48,8:49,6,wt-LMO3,CTZ
+3517,M,3517M,2,1,climbing,4:08,4:10,6,wt-LMO3,CTZ
+3517,M,3517M,2,1,climbing,4:12,4:15,6,wt-LMO3,CTZ
+3517,M,3517M,2,1,climbing,5:56,5:58,6,wt-LMO3,CTZ
+3517,M,3517M,2,1,gen sniff/poke,8:08,8:09,6,wt-LMO3,CTZ
+3517,M,3517M,2,1,direct sniff,0:20,0:21,6,wt-LMO3,CTZ
+3517,M,3517M,2,1,direct sniff,5:54,5:55,6,wt-LMO3,CTZ
+3517,M,3517M,2,1,direct sniff,7:16,7:18,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,climbing,6:38,6:38,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,gen sniff/poke,8:37,8:38,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,direct sniff,1:30,1:32,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,direct sniff,2:19,2:20,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,direct sniff,3:33,3:35,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,direct sniff,5:25,5:26,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,direct sniff,6:36,6:37,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,direct sniff,7:30,7:33,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,direct sniff,7:37,7:39,6,wt-LMO3,CTZ
+3517,M,3517M,2,2,direct sniff,8:30,8:31,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,climbing,1:19,1:20,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,climbing,3:52,3:54,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,climbing,3:58,3:59,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,gen sniff/poke,3:42,3:43,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,gen sniff/poke,5:19,5:20,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,gen sniff/poke,7:24,7:25,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,gen sniff/poke,9:36,9:37,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,direct sniff,0:49,0:50,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,direct sniff,6:43,6:44,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,direct sniff,6:48,6:49,6,wt-LMO3,CTZ
+3517,M,3517M,3,1,direct sniff,8:33,8:34,6,wt-LMO3,CTZ
+3517,M,3517M,3,2,climbing,3:24,2:26,6,wt-LMO3,CTZ
+3517,M,3517M,3,2,gen sniff/poke,0:36,0:37,6,wt-LMO3,CTZ
+3517,M,3517M,3,2,gen sniff/poke,6:20,6:21,6,wt-LMO3,CTZ
+3517,M,3517M,3,2,gen sniff/poke,7:55,7:56,6,wt-LMO3,CTZ
+3517,M,3517M,3,2,direct sniff,2:54,2:55,6,wt-LMO3,CTZ
+3518,M,3518M,2,1,gen sniff/poke,4:09,4:10,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,1,gen sniff/poke,6:11,6:12,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,1,gen sniff/poke,6:30,6:31,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,1,direct sniff,1:21,1:24,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,1,direct sniff,2:13,2:15,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,1,direct sniff,4:54,4:55,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,1,direct sniff,5:13,5:17,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,1,direct sniff,9:54,9:56,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,2,gen sniff/poke,0:12,0:13,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,2,gen sniff/poke,0:53,0:56,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,2,gen sniff/poke,3:42,3:43,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,2,gen sniff/poke,6:35,6:36,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,2,gen sniff/poke,7:07,7:11,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,2,direct sniff,1:53,1:54,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,2,direct sniff,4:47,4:50,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,2,direct sniff,8:44,8:45,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,1,climbing,8:58,8:59,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,1,gen sniff/poke,2:35,2:36,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,1,gen sniff/poke,4:03,4:04,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,1,direct sniff,0:28,0:29,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,1,direct sniff,1:56,1:59,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,1,direct sniff,4:08,4:09,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,1,direct sniff,7:14,7:15,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,1,direct sniff,8:29,8:31,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,climbing,5:38,5:40,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,climbing,8:08,8:09,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,climbing,8:16,8:20,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,climbing,8:22,8:23,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,climbing,8:25,8:27,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,climbing,8:50,8:51,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,gen sniff/poke,3:14,3:15,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,direct sniff,1:01,1:02,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,direct sniff,2:30,2:31,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,direct sniff,5:04,5:05,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,direct sniff,5:36,5:37,6,Rbp4-LMO3,CTZ
+3518,M,3518M,3,2,direct sniff,8:01,8:04,6,Rbp4-LMO3,CTZ
+3519,F,3519F,2,1,direct sniff,4:13,4:14,6,wt-LMO3,CTZ
+3519,F,3519F,2,2,direct sniff,2:17,2:18,6,wt-LMO3,CTZ
+3519,F,3519F,3,1,direct sniff,0:36,0:37,6,wt-LMO3,CTZ
+3519,F,3519F,3,1,direct sniff,0:54,0:55,6,wt-LMO3,CTZ
+3519,F,3519F,3,1,direct sniff,1:03,1:04,6,wt-LMO3,CTZ
+3519,F,3519F,3,1,direct sniff,1:48,1:49,6,wt-LMO3,CTZ
+3519,F,3519F,3,1,direct sniff,1:55,1:56,6,wt-LMO3,CTZ
+3519,F,3519F,3,2,gen sniff/poke,0:14,0:15,6,wt-LMO3,CTZ
+3519,F,3519F,3,2,direct sniff,1:12,1:13,6,wt-LMO3,CTZ
+3520,F,3520F,2,1,gen sniff/poke,0:05,0:06,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,1,gen sniff/poke,6:41,6:42,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,1,direct sniff,1:05,1:06,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,1,direct sniff,2:50,2:51,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,1,direct sniff,2:57,2:58,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,1,direct sniff,8:48,8:49,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,1,direct sniff,9:05,9:06,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,2,direct sniff,0:09,0:10,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,2,direct sniff,0:31,0:32,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,2,direct sniff,2:51,2:52,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,2,direct sniff,3:03,3:03,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,2,direct sniff,6:04,6:05,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,2,direct sniff,6:20,6:21,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,2,direct sniff,7:01,7:02,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,1:16,1:17,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,2:34,2:35,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,4:09,4:10,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,4:31,4:32,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,4:57,4:58,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,5:39,5:40,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,5:50,5:51,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,6:11,6:12,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,7:54,7:55,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,direct sniff,9:41,9:42,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,2,gen sniff/poke,1:26,1:27,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,2,direct sniff,3:48,3:49,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,2,direct sniff,4:18,4:19,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,2,direct sniff,4:38,4:39,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,2,direct sniff,7:56,7:57,6,Rbp4-LMO3,CTZ
+3521,F,3521F,2,1,climbing,2:01,2:02,6,wt-LMO3,CTZ
+3521,F,3521F,2,1,climbing,3:33,3:34,6,wt-LMO3,CTZ
+3521,F,3521F,2,1,climbing,6:33,6:34,6,wt-LMO3,CTZ
+3521,F,3521F,2,1,direct sniff,9:35,9:36,6,wt-LMO3,CTZ
+3521,F,3521F,2,2,climbing,4:53,4:55,6,wt-LMO3,CTZ
+3521,F,3521F,2,2,climbing,5:52,5:53,6,wt-LMO3,CTZ
+3521,F,3521F,2,2,climbing,6:12,6:13,6,wt-LMO3,CTZ
+3521,F,3521F,2,2,climbing,7:20,7:21,6,wt-LMO3,CTZ
+3521,F,3521F,2,2,climbing,9:41,9:42,6,wt-LMO3,CTZ
+3521,F,3521F,2,2,gen sniff/poke,1:40,1:41,6,wt-LMO3,CTZ
+3521,F,3521F,2,2,direct sniff,0:14,0:15,6,wt-LMO3,CTZ
+3521,F,3521F,2,2,direct sniff,5:47,5:48,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,climbing,0:40,0:41,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,climbing,1:21,1:23,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,climbing,3:17,3:18,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,climbing,3:51,3:52,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,climbing,8:08,8:09,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,climbing,9:06,9:07,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,gen sniff/poke,2:28,2:29,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,gen sniff/poke,4:45,4:46,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,gen sniff/poke,5:27,5:28,6,wt-LMO3,CTZ
+3521,F,3521F,3,2,climbing,1:27,1:28,6,wt-LMO3,CTZ
+3521,F,3521F,3,2,climbing,4:50,4:51,6,wt-LMO3,CTZ
+3521,F,3521F,3,2,climbing,9:33,9:34,6,wt-LMO3,CTZ
+3521,F,3521F,3,2,gen sniff/poke,3:57,3:58,6,wt-LMO3,CTZ
+3521,F,3521F,3,2,gen sniff/poke,5:40,5:41,6,wt-LMO3,CTZ
+3521,F,3521F,3,2,direct sniff,2:58,2:59,6,wt-LMO3,CTZ
+3522,M,3522M ,2,1,climbing,2:56,2:57,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,1,climbing,5:18,5:19,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,1,gen sniff/poke,0:11,0:12,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,1,gen sniff/poke,6:42,6:44,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,1,direct sniff,0:26,0:27,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,1,direct sniff,4:26,4:27,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,2,climbing,6:20,6:24,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,2,gen sniff/poke,1:18,1:19,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,2,gen sniff/poke,4:24,4:25,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,2,direct sniff,1:16,1:17,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,2,2,direct sniff,2:47,2:48,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,3,1,climbing,1:04,1:06,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,3,1,direct sniff,2:26,2:27,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,3,2,climbing,1:09,1:10,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,3,2,climbing,3:15,3:17,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,3,2,climbing,3:22,3:23,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,3,2,climbing,3:35,3:36,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,3,2,climbing,8:45,8:46,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,3,2,gen sniff/poke,0:07,0:08,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,1,direct sniff,1:45,1:46,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,1,direct sniff,2:06,2:07,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,1,direct sniff,3:16,3:18,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,1,direct sniff,9:18,9:19,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,2,direct sniff,0:25,0:26,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,2,direct sniff,2:16,2:17,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,2,direct sniff,2:26,2:27,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,2,direct sniff,4:52,4:53,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,2,direct sniff,5:14,5:16,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,2,direct sniff,6:25,6:26,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,1,climbing,5:27,5:29,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,1,climbing,6:20,6:21,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,1,climbing,7:37,7:38,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,2,climbing,3:10,3:11,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,2,climbing,5:51,5:52,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,2,direct sniff,0:27,0:28,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,2,direct sniff,2:24,2:26,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,2,direct sniff,5:41,5:42,7,Rbp4-LMO3,CTZ
+3524,F,3524F,2,1,climbing,5:55,5:57,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,climbing,6:06,6:07,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,climbing,6:39,6:40,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,climbing,6:52,6:54,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,gen sniff/poke,1:03,1:04,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,gen sniff/poke,2:30,2:31,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,gen sniff/poke,3:51,3:52,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,direct sniff,5:53,5:54,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,direct sniff,5:58,5:59,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,direct sniff,6:35,6:36,7,wt-LMO3,CTZ
+3524,F,3524F,2,1,direct sniff,6:37,6:38,7,wt-LMO3,CTZ
+3524,F,3524F,2,2,climbing,3:37,3:38,7,wt-LMO3,CTZ
+3524,F,3524F,2,2,climbing,6:24,6:27,7,wt-LMO3,CTZ
+3524,F,3524F,2,2,gen sniff/poke,2:40,2:41,7,wt-LMO3,CTZ
+3524,F,3524F,2,2,gen sniff/poke,3:24,3:35,7,wt-LMO3,CTZ
+3524,F,3524F,2,2,gen sniff/poke,4:45,4:46,7,wt-LMO3,CTZ
+3524,F,3524F,2,2,direct sniff,1:08,1:09,7,wt-LMO3,CTZ
+3524,F,3524F,2,2,direct sniff,3:09,3:10,7,wt-LMO3,CTZ
+3524,F,3524F,2,2,direct sniff,3:33,3:34,7,wt-LMO3,CTZ
+3524,F,3524F,2,2,direct sniff,5:16,5:17,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,0:27,0:28,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,0:56,0:57,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,1:21,1:22,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,2:20,2:21,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,2:24,2:25,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,4:59,5:00,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,6:33,6:34,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,6:54,6:56,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,9:09,9:10,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,climbing,9:46,9:47,7,wt-LMO3,CTZ
+3524,F,3524F,3,2,climbing,0:48,0:49,7,wt-LMO3,CTZ
+3524,F,3524F,3,2,climbing,2:51,2:55,7,wt-LMO3,CTZ
+3524,F,3524F,3,2,climbing,3:33,3:34,7,wt-LMO3,CTZ
+3524,F,3524F,3,2,climbing,3:48,3:49,7,wt-LMO3,CTZ
+3524,F,3524F,3,2,climbing,5:59,6:00,7,wt-LMO3,CTZ
+3524,F,3524F,3,2,direct sniff,4:05,4:08,7,wt-LMO3,CTZ
+3524,F,3524F,3,2,direct sniff,6:59,7:02,7,wt-LMO3,CTZ
+3524,F,3524F,3,2,direct sniff,9:05,9:07,7,wt-LMO3,CTZ
+3525,F,3525F,2,1,climbing,1:54,1:55,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,climbing,2:17,2:18,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,climbing,6:56,6:58,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,climbing,7:14,7:15,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,climbing,7:19,7:20,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,climbing,8:10,8:11,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,climbing,8:31,8:34,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,gen sniff/poke,5:17,5:18,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,gen sniff/poke,8:08,8:09,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,gen sniff/poke,8:25,8:26,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,direct sniff,0:14,0:15,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,direct sniff,0:53,0:54,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,direct sniff,7:12,7:13,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,direct sniff,8:29,8:31,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,1,direct sniff,9:53,9:54,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,2,climbing,1:41,1:43,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,2,climbing,2:06,2:07,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,2,climbing,2:41,2:42,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,2,gen sniff/poke,0:41,0:42,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,2,gen sniff/poke,3:01,3:02,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,2,gen sniff/poke,6:49,6:50,7,Rbp4-LMO3,CTZ
+3525,F,3525F,2,2,gen sniff/poke,8:21,8:22,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,1,climbing,0:12,0:14,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,1,climbing,1:24,1:27,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,1,climbing,1:51,1:52,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,1,climbing,5:00,5:01,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,1,climbing,7:56,7:57,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,1,climbing,9:32,9:34,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,1,gen sniff/poke,3:57,3:58,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,1,direct sniff,4:59,5:00,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,climbing,0:02,0:03,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,climbing,0:47,0:49,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,climbing,0:55,0:57,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,climbing,3:05,3:06,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,climbing,5:19,5:21,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,climbing,5:54,5:55,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,climbing,8:00,8:02,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,climbing,8:12,8:14,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,climbing,8:47,8:52,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,gen sniff/poke,9:37,9:40,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,direct sniff,3:03,3:04,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,direct sniff,9:44,9:45,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,direct sniff,9:48,9:50,7,Rbp4-LMO3,CTZ
+3525,F,3525F,3,2,direct sniff,9:53,9:56,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,1,climbing,4:56,4:57,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,1,direct sniff,0:27,0:28,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,2,climbing,3:39,3:42,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,2,climbing,6:32,6:34,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,2,gen sniff/poke,1:40,1:41,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,2,gen sniff/poke,6:30,6:31,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,2,direct sniff,1:57,1:58,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,2,direct sniff,5:46,5:47,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,2,direct sniff,6:40,6:41,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,2,direct sniff,8:05,8:06,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,1,climbing,2:40,2:43,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,1,climbing,4:11,4:12,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,1,climbing,5:52,5:53,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,1,climbing,8:00,8:02,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,1,gen sniff/poke,8:31,8:32,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,2,climbing,5:14,5:15,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,2,climbing,5:41,5:44,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,2,climbing,7:41,7:49,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,2,climbing,9:42,9:44,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,2,direct sniff,3:06,3:07,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,2,direct sniff,7:50,7:52,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,1,climbing,2:52,2:53,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,1,climbing,3:44,3:46,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,1,climbing,8:36,8:38,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,1,climbing,8:52,8:53,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,1,gen sniff/poke,3:15,3:16,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,1,direct sniff,2:50,2:52,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,1,direct sniff,4:02,4:04,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,2,climbing,7:51,7:52,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,2,gen sniff/poke,5:02,5:03,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,2,direct sniff,0:29,0:30,7,Rbp4-LMO3,CTZ
+3552,F,3552F,2,2,direct sniff,2:42,2:43,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,1,climbing,2:29,2:31,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,1,climbing,4:13,4:16,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,1,climbing,5:19,5:20,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,1,climbing,9:24,9:29,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,1,climbing,9:31,9:33,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,1,direct sniff,2:25,2:27,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,1,direct sniff,3:38,3:39,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,2,climbing,8:30,8:33,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,2,climbing,8:35,8:38,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,2,climbing,9:37,9:43,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,2,climbing,9:50,9:51,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,2,direct sniff,3:00,3:01,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,2,direct sniff,8:42,8:44,7,Rbp4-LMO3,CTZ
+3553,F,3553F,2,1,climbing,0:52,0:53,7,wt-LMO3,CTZ
+3553,F,3553F,2,1,climbing,3:10,3:11,7,wt-LMO3,CTZ
+3553,F,3553F,2,1,climbing,8:27,8:28,7,wt-LMO3,CTZ
+3553,F,3553F,2,1,gen sniff/poke,5:06,5:07,7,wt-LMO3,CTZ
+3553,F,3553F,2,1,gen sniff/poke,6:27,6:28,7,wt-LMO3,CTZ
+3553,F,3553F,2,1,gen sniff/poke,6:58,6:59,7,wt-LMO3,CTZ
+3553,F,3553F,2,1,direct sniff,0:49,0:50,7,wt-LMO3,CTZ
+3553,F,3553F,2,1,direct sniff,3:42,3:43,7,wt-LMO3,CTZ
+3553,F,3553F,2,2,climbing,5:30,5:33,7,wt-LMO3,CTZ
+3553,F,3553F,2,2,climbing,5:37,5:40,7,wt-LMO3,CTZ
+3553,F,3553F,2,2,gen sniff/poke,0:22,0:23,7,wt-LMO3,CTZ
+3553,F,3553F,2,2,gen sniff/poke,2:02,2:03,7,wt-LMO3,CTZ
+3553,F,3553F,2,2,gen sniff/poke,2:10,2:11,7,wt-LMO3,CTZ
+3553,F,3553F,2,2,gen sniff/poke,4:34,4:38,7,wt-LMO3,CTZ
+3553,F,3553F,2,2,gen sniff/poke,5:50,5:52,7,wt-LMO3,CTZ
+3553,F,3553F,2,2,gen sniff/poke,9:19,9:20,7,wt-LMO3,CTZ
+3553,F,3553F,2,2,direct sniff,9:22,9:23,7,wt-LMO3,CTZ
+3553,F,3553F,3,1,climbing,0:33,0:34,7,wt-LMO3,CTZ
+3553,F,3553F,3,1,climbing,3:21,3:23,7,wt-LMO3,CTZ
+3553,F,3553F,3,1,climbing,5:15,5:16,7,wt-LMO3,CTZ
+3553,F,3553F,3,1,climbing,8:18,8:23,7,wt-LMO3,CTZ
+3553,F,3553F,3,1,climbing,9:56,9:58,7,wt-LMO3,CTZ
+3553,F,3553F,3,1,gen sniff/poke,1:45,1:46,7,wt-LMO3,CTZ
+3553,F,3553F,3,1,gen sniff/poke,1:59,2:00,7,wt-LMO3,CTZ
+3553,F,3553F,3,1,gen sniff/poke,2:07,2:08,7,wt-LMO3,CTZ
+3553,F,3553F,3,1,direct sniff,2:14,2:15,7,wt-LMO3,CTZ
+3553,F,3553F,3,2,climbing,0:40,0:41,7,wt-LMO3,CTZ
+3553,F,3553F,3,2,climbing,3:14,3:16,7,wt-LMO3,CTZ
+3553,F,3553F,3,2,climbing,3:32,3:33,7,wt-LMO3,CTZ
+3553,F,3553F,3,2,gen sniff/poke,1:14,1:15,7,wt-LMO3,CTZ
+3553,F,3553F,3,2,direct sniff,1:03,1:04,7,wt-LMO3,CTZ
+3553,F,3553F,3,2,direct sniff,6:13,6:14,7,wt-LMO3,CTZ
+3554,M,3554M,2,1,climbing,3:55,3:56,8,Rbp4-LMO3,CTZ
+3554,M,3554M,2,1,gen sniff/poke,0:48,0:49,8,Rbp4-LMO3,CTZ
+3554,M,3554M,2,1,gen sniff/poke,4:43,4:44,8,Rbp4-LMO3,CTZ
+3554,M,3554M,2,1,gen sniff/poke,5:25,5:26,8,Rbp4-LMO3,CTZ
+3554,M,3554M,2,1,gen sniff/poke,8:42,8:43,8,Rbp4-LMO3,CTZ
+3554,M,3554M,2,1,direct sniff,0:12,0:13,8,Rbp4-LMO3,CTZ
+3554,M,3554M,2,2,climbing,0:42,0:45,8,Rbp4-LMO3,CTZ
+3554,M,3554M,2,2,climbing,3:38,3:40,8,Rbp4-LMO3,CTZ
+3554,M,3554M,2,2,direct sniff,5:37,5:38,8,Rbp4-LMO3,CTZ
+3554,M,3554M,2,2,direct sniff,9:00,9:01,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,1,climbing,4:14,4:15,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,1,gen sniff/poke,4:16,4:17,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,2,direct sniff,0:33,0:34,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,2,direct sniff,1:34,1:35,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,2,direct sniff,3:29,3:30,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,2,direct sniff,4:03,4:05,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,2,direct sniff,4:26,4:27,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,2,direct sniff,4:29,4:30,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,2,direct sniff,4:36,4:37,8,Rbp4-LMO3,CTZ
+3555,M,3555M,2,1,climbing,7:58,8:01,8,wt-LMO3,CTZ
+3555,M,3555M,2,1,climbing,9:52,9:53,8,wt-LMO3,CTZ
+3555,M,3555M,2,1,climbing,9:55,9:56,8,wt-LMO3,CTZ
+3555,M,3555M,2,1,direct sniff,2:53,2:54,8,wt-LMO3,CTZ
+3555,M,3555M,2,1,direct sniff,5:37,5:38,8,wt-LMO3,CTZ
+3555,M,3555M,2,1,direct sniff,9:42,9:27,8,wt-LMO3,CTZ
+3555,M,3555M,2,1,direct sniff,9:49,9:50,8,wt-LMO3,CTZ
+3555,M,3555M,2,2,gen sniff/poke,2:35,2:36,8,wt-LMO3,CTZ
+3555,M,3555M,2,2,direct sniff,2:42,2:43,8,wt-LMO3,CTZ
+3555,M,3555M,3,1,climbing,3:04,3:05,8,wt-LMO3,CTZ
+3555,M,3555M,3,2,climbing,4:19,4:26,8,wt-LMO3,CTZ
+3555,M,3555M,3,2,climbing,4:58,4:59,8,wt-LMO3,CTZ
+3555,M,3555M,3,2,direct sniff,4:03,4:04,8,wt-LMO3,CTZ
+3555,M,3555M,3,2,direct sniff,4:15,4:17,8,wt-LMO3,CTZ
+3555,M,3555M,3,2,direct sniff,7:15,7:16,8,wt-LMO3,CTZ
+3556,F,3556F,2,1,climbing,2:10,2:11,8,wt-LMO3,CTZ
+3556,F,3556F,2,1,gen sniff/poke,2:20,2:21,8,wt-LMO3,CTZ
+3556,F,3556F,2,1,gen sniff/poke,8:39,8:42,8,wt-LMO3,CTZ
+3556,F,3556F,2,1,direct sniff,3:20,3:27,8,wt-LMO3,CTZ
+3556,F,3556F,2,1,direct sniff,5:43,5:44,8,wt-LMO3,CTZ
+3556,F,3556F,2,1,direct sniff,8:24,8:25,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,climbing,1:54,1:56,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,climbing,2:07,2:09,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,climbing,2:57,2:58,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,climbing,3:46,3:50,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,climbing,9:02,9:06,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,climbing,9:14,9:16,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,direct sniff,4:21,4:22,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,direct sniff,8:57,9:00,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,direct sniff,9:10,9:12,8,wt-LMO3,CTZ
+3556,F,3556F,3,1,climbing,3:37,3:38,8,wt-LMO3,CTZ
+3556,F,3556F,3,1,climbing,9:30,9:33,8,wt-LMO3,CTZ
+3556,F,3556F,3,2,climbing,3:23,3:25,8,wt-LMO3,CTZ
+3556,F,3556F,3,2,climbing,3:34,3:35,8,wt-LMO3,CTZ
+3556,F,3556F,3,2,climbing,4:36,4:38,8,wt-LMO3,CTZ
+3556,F,3556F,3,2,climbing,5:05,5:08,8,wt-LMO3,CTZ
+3557,F,3557F,2,1,climbing,0:04,0:05,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,1,climbing,1:44,1:45,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,1,climbing,3:23,2:24,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,1,climbing,5:21,5:26,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,1,climbing,6:03,6:05,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,1,climbing,6:20,6:21,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,1,climbing,6:48,6:49,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,1,direct sniff,0:22,0:23,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,2,climbing,1:35,1:37,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,2,climbing,2:44,2:46,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,2,climbing,5:54,5:56,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,2,climbing,6:32,6:35,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,2,climbing,9:28,9:32,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,2,gen sniff/poke,0:16,0:17,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,1,climbing,0:02,0:03,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,1,climbing,0:18,0:19,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,1,climbing,1:39,1:40,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,1,climbing,5:24,5:30,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,1,climbing,9:28,9:31,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,1,climbing,9:35,9:37,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,1,climbing,9:43,9:45,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,2,climbing,0:06,0:07,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,2,climbing,1:07,1:09,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,2,climbing,4:18,4:21,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,2,climbing,5:08,5:10,8,Rbp4-LMO3,CTZ
+3558,F,3558F,2,1,climbing,4:01,4:02,8,wt-LMO3,CTZ
+3558,F,3558F,2,1,direct sniff,0:36,0:38,8,wt-LMO3,CTZ
+3558,F,3558F,2,2,climbing,2:53,2:54,8,wt-LMO3,CTZ
+3558,F,3558F,2,2,gen sniff/poke,1:26,1:27,8,wt-LMO3,CTZ
+3558,F,3558F,2,2,gen sniff/poke,2:39,2:41,8,wt-LMO3,CTZ
+3558,F,3558F,2,2,direct sniff,7:10,7:11,8,wt-LMO3,CTZ
+3558,F,3558F,3,1,climbing,8:36,8:39,8,wt-LMO3,CTZ
+3558,F,3558F,3,1,climbing,8:45,8:47,8,wt-LMO3,CTZ
+3558,F,3558F,3,1,direct sniff,3:41,3:42,8,wt-LMO3,CTZ
+3558,F,3558F,3,1,direct sniff,4:43,4:44,8,wt-LMO3,CTZ
+3558,F,3558F,3,2,climbing,0:19,0:20,8,wt-LMO3,CTZ
+3558,F,3558F,3,2,climbing,4:11,4:13,8,wt-LMO3,CTZ
+3558,F,3558F,3,2,climbing,4:16,4:21,8,wt-LMO3,CTZ
+3558,F,3558F,3,2,climbing,4:37,4:40,8,wt-LMO3,CTZ
+3558,F,3558F,3,2,climbing,6:28,6:29,8,wt-LMO3,CTZ
+3558,F,3558F,3,2,climbing,9:07,9:11,8,wt-LMO3,CTZ
+3558,F,3558F,3,2,climbing,9:29,9:30,8,wt-LMO3,CTZ
+3559,F,3559F,2,1,climbing,3:56,3:57,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,2,2,climbing,3:45,3:46,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,2,2,direct sniff,3:40,3:41,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,1,climbing,4:11,4:16,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,1,climbing,4:17,4:18,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,1,direct sniff,2:41,2:42,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,2,climbing,3:40,3:44,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,2,climbing,3:52,3:56,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,2,climbing,5:59,6:01,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,2,direct sniff,2:23,2:25,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,2,direct sniff,2:26,2:27,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,2,direct sniff,2:46,2:47,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,2,direct sniff,3:20,3:21,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,2,direct sniff,3:23,3:24,9,Rbp4-LMO3,CTZ 
+3560,F,3560F,2,1,gen sniff/poke,3:52,3:54,9,wt-LMO3,CTZ 
+3560,F,3560F,2,1,gen sniff/poke,4:03,4:04,9,wt-LMO3,CTZ 
+3560,F,3560F,3,1,climbing,3:27,3:30,9,wt-LMO3,CTZ 
+3560,F,3560F,3,1,direct sniff,3:22,3:24,9,wt-LMO3,CTZ 
+3560,F,3560F,3,1,direct sniff,4:54,4:55,9,wt-LMO3,CTZ 
+3560,F,3560F,3,2,climbing,4:15,4:16,9,wt-LMO3,CTZ 
+3560,F,3560F,3,2,direct sniff,3:11,3:14,9,wt-LMO3,CTZ 
+3560,F,3560F,3,2,direct sniff,4:17,4:18,9,wt-LMO3,CTZ 
+3561,M,3561M,2,1,climbing,3:13,3:14,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,1,direct sniff,3:09,3:10,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,2,climbing,1:45,1:49,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,2,climbing,2:48,2:51,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,2,climbing,5:22,5:26,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,2,climbing,5:39,5:42,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,2,gen sniff/poke,3:27,3:33,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,2,gen sniff/poke,6:17,6:30,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,2,direct sniff,2:29,2:31,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,2,direct sniff,5:44,5:45,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,2,2,direct sniff,7:33,7:34,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,1,climbing,1:25,1:27,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,1,climbing,9:01,9:02,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,1,gen sniff/poke,1:16,1:19,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,1,gen sniff/poke,1:22,1:24,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,1,gen sniff/poke,3:05,3:06,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,1,gen sniff/poke,3:11,3:15,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,1,direct sniff,4:15,4:16,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,1,direct sniff,5:04,5:06,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,1,direct sniff,7:53,7:56,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,2,climbing,7:21,7:24,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,2,gen sniff/poke,7:25,7:26,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,1,climbing,1:23,1:24,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,1,climbing,3:20,3:22,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,1,gen sniff/poke,2:47,2:49,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,1,gen sniff/poke,6:23,6:24,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,1,direct sniff,1:36,1:40,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,1,direct sniff,4:36,4:37,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,1,direct sniff,6:19,6:20,9,Rbp4-LMO3,CTZ 
+3562,F,3562F,3,1,climbing,1:08,1:09,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,1,climbing,3:02,3:04,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,1,climbing,3:35,3:47,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,1,climbing,6:28,6:29,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,1,direct sniff,0:18,0:19,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,1,direct sniff,1:06,1:07,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,climbing,0:25,0:26,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,climbing,1:22,1:23,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,climbing,2:33,2:40,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,climbing,4:03,4:05,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,climbing,4:24,4:25,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,climbing,4:43,4:48,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,climbing,7:22,7:25,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,gen sniff/poke,7:58,7:59,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,direct sniff,0:40,0:41,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,direct sniff,0:51,0:52,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,direct sniff,1:16,1:17,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,direct sniff,2:13,2:14,9,Rbp4-LMO3,CTZ
+3562,F,3562F,3,2,direct sniff,4:32,4:33,9,Rbp4-LMO3,CTZ
+3563,F,3563F,2,1,climbing,2:21,2:22,9,wt-LMO3,CTZ 
+3563,F,3563F,2,1,climbing,2:37,2:38,9,wt-LMO3,CTZ 
+3563,F,3563F,2,1,climbing,8:13,8:15,9,wt-LMO3,CTZ 
+3563,F,3563F,2,1,gen sniff/poke,0:14,0:15,9,wt-LMO3,CTZ 
+3563,F,3563F,2,1,direct sniff,2:43,2:44,9,wt-LMO3,CTZ 
+3563,F,3563F,2,1,direct sniff,8:10,8:11,9,wt-LMO3,CTZ 
+3563,F,3563F,2,2,climbing,2:15,2:16,9,wt-LMO3,CTZ 
+3563,F,3563F,2,2,climbing,2:25,2:26,9,wt-LMO3,CTZ 
+3563,F,3563F,2,2,climbing,2:49,2:51,9,wt-LMO3,CTZ 
+3563,F,3563F,2,2,climbing,3:16,3:17,9,wt-LMO3,CTZ 
+3563,F,3563F,2,2,direct sniff,0:08,0:09,9,wt-LMO3,CTZ 
+3563,F,3563F,2,2,direct sniff,4:16,4:19,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,climbing,1:10,1:12,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,climbing,1:41,1:43,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,climbing,2:33,2:34,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,climbing,5:32,5:33,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,climbing,5:53,5:54,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,climbing,6:16,6:18,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,climbing,9:22,9:23,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,climbing,9:31,9:32,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,direct sniff,9:29,9:30,9,wt-LMO3,CTZ 
+3563,F,3563F,3,2,climbing,1:28,1:30,9,wt-LMO3,CTZ 
+3563,F,3563F,3,2,climbing,4:55,4:59,9,wt-LMO3,CTZ 
+3563,F,3563F,3,2,climbing,9:43,9:44,9,wt-LMO3,CTZ 
+3563,F,3563F,3,2,direct sniff,0:08,0:10,9,wt-LMO3,CTZ 
+3564,F,3564F,2,1,climbing,2:33,2:34,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,1,climbing,4:12,4:14,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,1,climbing,9:04,9:06,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,2,climbing,0:28,0:29,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,2,climbing,2:38,2:40,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,2,climbing,5:04,5:05,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,2,gen sniff/poke,3:33,3:34,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,1,climbing,1:33,1:34,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,1,climbing,2:54,2:56,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,1,climbing,5:07,5:08,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,1,climbing,5:12,5:14,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,1,climbing,5:26,5:27,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,1,climbing,8:01,8:04,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,2,climbing,4:18,4:19,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,2,climbing,4:35,4:37,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,2,climbing,6:52,6:54,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,2,climbing,6:56,6:57,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,2,climbing,7:27,7:30,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,2,climbing,9:53,9:57,9,Rbp4-LMO3,CTZ 
+3565,F,3565F,2,1,climbing,2:45,2:46,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,1,climbing,6:28,6:29,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,1,climbing,9:10,9:12,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,1,climbing,9:15,9:16,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,1,direct sniff,1:24,1:25,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,1,direct sniff,6:31,6:32,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,2,climbing,2:02,2:04,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,2,climbing,3:48,3:49,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,2,climbing,7:29,7:56,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,2,climbing,8:55,8:58,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,2,climbing,9:52,9:54,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,2,gen sniff/poke,3:39,3:40,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,2,direct sniff,2:59,3:00,9,Rbp4-LMO3,CTZ
+3565,F,3565F,2,2,direct sniff,3:47,3:48,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,climbing,0:09,0:10,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,climbing,0:11,0:12,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,climbing,2:11,2:13,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,climbing,3:06,3:07,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,climbing,3:22,3:23,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,climbing,5:52,5:54,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,climbing,6:42,6:44,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,climbing,7:03,7:04,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,direct sniff,1:38,1:39,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,direct sniff,5:08,5:09,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,2,climbing,1:53,1:55,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,2,climbing,3:15,3:16,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,2,climbing,6:06,6:08,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,2,direct sniff,0:24,0:25,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,2,direct sniff,4:48,4:49,9,Rbp4-LMO3,CTZ
+2806,F,2806F,2,1,climbing,6:03,6:05,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,1,climbing,6:13,6:18,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,1,direct sniff,0:16,0:17,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,1,direct sniff,0:19,0:20,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,1,direct sniff,0:52,0:53,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,1,direct sniff,6:06,6:07,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,1,direct sniff,6:29,6:31,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,climbing,4:29,4:31,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,climbing,4:54,4:58,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,climbing,5:00,5:01,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,climbing,5:08,5:09,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,climbing,5:20,5:21,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,climbing,5:30,5:31,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,climbing,7:07,7:09,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,climbing,7:37,7:38,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,climbing,9:17,9:20,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,gen sniff/poke,7:03,7:04,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,direct sniff,0:09,0:10,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,direct sniff,1:45,1:47,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,direct sniff,3:20,3:21,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,2,2,direct sniff,7:34,7:36,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,1,climbing,0:30,0:32,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,1,climbing,0:33,0:35,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,1,climbing,2:26,2:28,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,1,climbing,4:43,4:44,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,1,climbing,8:04,8:06,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,1,gen sniff/poke,6:35,6:40,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,1,gen sniff/poke,8:39,8:40,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,2,climbing,0:41,0:43,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,2,climbing,0:43,0:44,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,2,climbing,1:36,1:37,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,2,climbing,2:05,2:07,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,2,climbing,2:13,2:15,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,2,climbing,4:13,4:20,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,2,climbing,4:54,4:59,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,2,direct sniff,6:10,6:12,10,Rbp4-LMO3,CTZ 
+2808,F,2808F,2,1,climbing,0:10,0:11,10,wt-LMO3,CTZ 
+2808,F,2808F,2,1,climbing,1:20,1:21,10,wt-LMO3,CTZ 
+2808,F,2808F,2,1,climbing,5:19,5:20,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,1:08,1:09,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,1:25,1:26,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,1:53,1:54,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,2:38,2:41,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,3:21,3:22,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,3:35,3:36,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,3:53,3:54,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,4:28,4:29,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,5:04,5:08,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,5:48,5:55,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,6:20,6:27,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,climbing,7:10,7:11,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,gen sniff/poke,6:43,6:44,10,wt-LMO3,CTZ 
+2808,F,2808F,2,2,direct sniff,8:08,8:09,10,wt-LMO3,CTZ 
+2808,F,2808F,3,1,climbing,4:55,4:58,10,wt-LMO3,CTZ 
+2808,F,2808F,3,1,climbing,6:13,6:15,10,wt-LMO3,CTZ 
+2808,F,2808F,3,1,climbing,6:44,6:46,10,wt-LMO3,CTZ 
+2808,F,2808F,3,1,climbing,6:52,6:53,10,wt-LMO3,CTZ 
+2808,F,2808F,3,1,climbing,7:16,7:17,10,wt-LMO3,CTZ 
+2808,F,2808F,3,1,climbing,7:28,7:30,10,wt-LMO3,CTZ 
+2808,F,2808F,3,1,climbing,9:38,9:39,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,climbing,0:18,0:19,g,wt-LMO3,CTZ 
+2808,F,2808F,3,2,climbing,0:43,0:45,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,climbing,1:30,1:33,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,climbing,2:57,2:58,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,climbing,4:02,4:04,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,climbing,4:07,4:08,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,climbing,6:24,6:26,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,climbing,9:54,9:55,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,gen sniff/poke,0:42,0:43,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,gen sniff/poke,5:19,5:20,10,wt-LMO3,CTZ 
+2809,F,2809F,2,1,climbing,5:21,5:22,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,climbing,9:10,9:11,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,gen sniff/poke,0:53,0:54,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,gen sniff/poke,0:56,0:57,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,direct sniff,1:33,1:34,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,direct sniff,1:44,1:45,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,direct sniff,4:05,4:06,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,direct sniff,4:57,4:58,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,direct sniff,5:40,5:41,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,direct sniff,5:42,5:46,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,direct sniff,6:59,7:00,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,1,direct sniff,9:08,9:09,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,2,climbing,7:15,7:16,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,2,climbing,7:23,7:24,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,2,gen sniff/poke,7:21,7:22,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,2,direct sniff,0:06,0:07,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,2,direct sniff,1:48,1:49,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,2,direct sniff,4:10,4:11,10,Rbp4-LMO3,CTZ
+2809,F,2809F,2,2,direct sniff,7:02,7:03,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,climbing,2:06,2:07,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,climbing,2:25,2:26,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,climbing,2:50,2:51,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,climbing,5:23,5:25,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,climbing,6:01,6:02,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,climbing,6:57,6:59,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,gen sniff/poke,2:28,2:29,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,direct sniff,0:11,0:12,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,direct sniff,0:19,0:20,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,direct sniff,0:38,0:39,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,direct sniff,4:12,4:13,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,1,direct sniff,4:18,4:19,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,2,climbing,1:57,1:58,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,2,climbing,4:28,4:29,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,2,climbing,4:41,4:43,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,2,climbing,6:06,6:08,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,2,climbing,6:42,6:43,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,2,direct sniff,0:25,0:26,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,2,direct sniff,2:42,2:44,10,Rbp4-LMO3,CTZ
+2809,F,2809F,3,2,direct sniff,2:24,2:25,10,Rbp4-LMO3,CTZ
+2838,F,2838F,2,1,climbing,1:56,1:57,10,wt-LMO3,CTZ 
+2838,F,2838F,2,1,climbing,2:50,2:52,10,wt-LMO3,CTZ 
+2838,F,2838F,2,1,climbing,3:04,3:05,10,wt-LMO3,CTZ 
+2838,F,2838F,2,1,climbing,4:14,4:15,10,wt-LMO3,CTZ 
+2838,F,2838F,2,1,climbing,4:53,4:54,10,wt-LMO3,CTZ 
+2838,F,2838F,2,1,climbing,6:25,6:26,10,wt-LMO3,CTZ 
+2838,F,2838F,2,1,gen sniff/poke,1:25,1:26,10,wt-LMO3,CTZ 
+2838,F,2838F,2,1,gen sniff/poke,7:02,7:03,10,wt-LMO3,CTZ 
+2838,F,2838F,2,1,gen sniff/poke,7:41,7:43,10,wt-LMO3,CTZ 
+2838,F,2838F,2,2,climbing,0:21,0:22,10,wt-LMO3,CTZ 
+2838,F,2838F,2,2,climbing,2:31,2:32,10,wt-LMO3,CTZ 
+2838,F,2838F,2,2,climbing,3:53,3:59,10,wt-LMO3,CTZ 
+2838,F,2838F,2,2,climbing,4:02,4:03,10,wt-LMO3,CTZ 
+2838,F,2838F,2,2,climbing,4:40,4:41,10,wt-LMO3,CTZ 
+2838,F,2838F,2,2,gen sniff/poke,2:43,2:44,10,wt-LMO3,CTZ 
+2838,F,2838F,2,2,direct sniff,0:03,0:04,10,wt-LMO3,CTZ 
+2838,F,2838F,3,1,climbing,3:11,3:12,10,wt-LMO3,CTZ 
+2838,F,2838F,3,1,climbing,5:16,5:20,10,wt-LMO3,CTZ 
+2838,F,2838F,3,1,climbing,6:13,6:15,10,wt-LMO3,CTZ 
+2838,F,2838F,3,1,climbing,7:58,7:59,10,wt-LMO3,CTZ 
+2838,F,2838F,3,1,climbing,8:20,8:22,10,wt-LMO3,CTZ 
+2838,F,2838F,3,2,climbing,1:36,1:37,10,wt-LMO3,CTZ 
+2838,F,2838F,3,2,climbing,3:15,3:16,10,wt-LMO3,CTZ 
+2838,F,2838F,3,2,climbing,4:13,4:15,10,wt-LMO3,CTZ 
+2838,F,2838F,3,2,climbing,4:36,4:37,10,wt-LMO3,CTZ 
+2838,F,2838F,3,2,climbing,5:35,5:36,10,wt-LMO3,CTZ 
+2838,F,2838F,3,2,climbing,7:31,7:32,10,wt-LMO3,CTZ 
+2838,F,2838F,3,2,climbing,8:41,8:43,10,wt-LMO3,CTZ 
+2838,F,2838F,3,2,direct sniff,2:45,2:47,10,wt-LMO3,CTZ 
+2839,F,2839F,2,1,climbing,0:27,0:28,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,1,climbing,6:45,6:46,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,1,climbing,8:38,8:39,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,1,direct sniff,4:46,4:47,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,1,direct sniff,5:08,5:09,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,1,direct sniff,5:31,5:32,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,1,direct sniff,9:11,9:13,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,2,climbing,3:28,3:41,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,2,climbing,7:44,7:45,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,2,climbing,7:53,7:54,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,2,climbing,8:03,8:09,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,2,climbing,8:23,8:24,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,2,gen sniff/poke,1:41,1:42,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,2,2,direct sniff,3:26,3:27,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,1,climbing,0:14,0:15,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,1,climbing,3:16,3:18,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,2,climbing,1:37,1:38,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,2,climbing,2:01,2:02,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,2,climbing,3:50,3:52,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,2,climbing,3:59,4:00,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,2,climbing,6:13,6:19,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,2,climbing,6:53,6:55,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,2,climbing,6:27,6:33,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,2,gen sniff/poke,6:39,6:41,10,Rbp4-LMO3,CTZ 
+3548,M,3548M,2,1,climbing,9:32,9:24,10,Rbp4-LMO3,CTZ
+3548,M,3548M,2,1,direct sniff,9:35,9:36,10,Rbp4-LMO3,CTZ
+3548,M,3548M,2,1,direct sniff,9:37,9:38,10,Rbp4-LMO3,CTZ
+3548,M,3548M,2,2,climbing,4:18,4:20,10,Rbp4-LMO3,CTZ
+3548,M,3548M,2,2,climbing,6:27,6:29,10,Rbp4-LMO3,CTZ
+3548,M,3548M,2,2,climbing,6:31,6:33,10,Rbp4-LMO3,CTZ
+3548,M,3548M,2,2,direct sniff,0:42,0:43,10,Rbp4-LMO3,CTZ
+3548,M,3548M,2,2,direct sniff,5:43,5:44,10,Rbp4-LMO3,CTZ
+3548,M,3548M,2,2,direct sniff,9:28,9:29,10,Rbp4-LMO3,CTZ
+3548,M,3548M,3,2,climbing,0:22,0:23,10,Rbp4-LMO3,CTZ
+3548,M,3548M,3,2,climbing,0:24,0:25,10,Rbp4-LMO3,CTZ
+3548,M,3548M,3,2,climbing,1:06,1:07,10,Rbp4-LMO3,CTZ
+3548,M,3548M,3,2,climbing,2:52,2:58,10,Rbp4-LMO3,CTZ
+3548,M,3548M,3,2,direct sniff,1:48,1:49,10,Rbp4-LMO3,CTZ
+3549,M,3549M,2,1,gen sniff/poke,5:35,5:38,10,wt-LMO3,CTZ 
+3549,M,3549M,2,1,direct sniff,4:06,4:07,10,wt-LMO3,CTZ 
+3549,M,3549M,2,1,direct sniff,5:06,5:07,10,wt-LMO3,CTZ 
+3549,M,3549M,2,2,direct sniff,4:16,4:17,10,wt-LMO3,CTZ 
+3549,M,3549M,2,2,direct sniff,4:55,4:57,10,wt-LMO3,CTZ 
+3549,M,3549M,2,2,direct sniff,5:08,5:09,10,wt-LMO3,CTZ 
+3549,M,3549M,3,1,direct sniff,6:45,6:46,10,wt-LMO3,CTZ 
+3549,M,3549M,3,2,direct sniff,2:59,3:00,10,wt-LMO3,CTZ 
+3549,M,3549M,3,2,direct sniff,4:13,4:14,10,wt-LMO3,CTZ 
+3549,M,3549M,3,2,direct sniff,6:26,6:27,10,wt-LMO3,CTZ 
+3549,M,3549M,3,2,direct sniff,8:18,8:19,10,wt-LMO3,CTZ 
+3549,M,3549M,3,2,direct sniff,8:30,8:31,10,wt-LMO3,CTZ 
+3549,M,3549M,3,2,direct sniff,8:33,8:35,10,wt-LMO3,CTZ 
+3549,M,3549M,3,2,direct sniff,8:49,8:50,10,wt-LMO3,CTZ 
+3550,M,3550M,2,1,climbing,3:51,3:52,10,wt-LMO3,CTZ 
+3550,M,3550M,2,1,climbing,4:40,4:41,10,wt-LMO3,CTZ 
+3550,M,3550M,2,2,climbing,3:14,3:17,10,wt-LMO3,CTZ 
+3550,M,3550M,2,2,climbing,3:18,3:20,10,wt-LMO3,CTZ 
+3550,M,3550M,2,2,climbing,4:26,4:28,10,wt-LMO3,CTZ 
+3550,M,3550M,2,2,climbing,9:10,9:14,10,wt-LMO3,CTZ 
+3550,M,3550M,2,2,gen sniff/poke,0:15,0:16,10,wt-LMO3,CTZ 
+3550,M,3550M,3,1,climbing,0:25,0:26,10,wt-LMO3,CTZ 
+3550,M,3550M,3,1,climbing,1:53,1:56,10,wt-LMO3,CTZ 
+3550,M,3550M,3,1,climbing,4:34,4:36,10,wt-LMO3,CTZ 
+3550,M,3550M,3,1,climbing,8:59,9:02,10,wt-LMO3,CTZ 
+3550,M,3550M,3,2,climbing,1:41,1:42,10,wt-LMO3,CTZ 
+3550,M,3550M,3,2,climbing,4:19,4:21,10,wt-LMO3,CTZ 
+3550,M,3550M,3,2,direct sniff,1:50,1:51,10,wt-LMO3,CTZ 
+3428,M,3428M ,2,1,climbing,0:00,0:00,3,wt-LMO3,CTZ
+3428,M,3428M ,3,2,gen sniff/poke,0:00,0:00,3,wt-LMO3,CTZ
+3429,F,3429F,2,1,climbing,0:00,0:00,3,wt-LMO3,CTZ
+3429,F,3429F,2,1,gen sniff/poke,0:00,0:00,3,wt-LMO3,CTZ
+3429,F,3429F,2,2,climbing,0:00,0:00,3,wt-LMO3,CTZ
+3429,F,3429F,3,2,climbing,0:00,0:00,3,wt-LMO3,CTZ
+3430,F,3430F,2,1,climbing,0:00,0:00,3,,
+3430,F,3430F,2,1,gen sniff/poke,0:00,0:00,3,,
+3430,F,3430F,2,2,climbing,0:00,0:00,,,
+3430,F,3430F,2,2,gen sniff/poke,0:00,0:00,,,
+3430,F,3430F,2,2,direct sniff,0:00,0:00,,,
+3430,F,3430F,3,1,climbing,0:00,0:00,3,,
+3430,F,3430F,3,1,gen sniff/poke,0:00,0:00,3,,
+3430,F,3430F,3,2,climbing,0:00,0:00,3,,
+3430,F,3430F,3,2,gen sniff/poke,0:00,0:00,3,,
+3432,M,3432M,2,1,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,2,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3432,M,3432M,2,2,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,1,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,2,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3432,M,3432M,3,2,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3434,M,3434M ,2,1,climbing,0:00,0:00,4,wt-LMO3,CTZ
+3434,M,3434M ,2,1,gen sniff/poke,0:00,0:00,4,wt-LMO3,CTZ
+3434,M,3434M ,2,2,climbing,0:00,0:00,4,wt-LMO3,CTZ
+3434,M,3434M ,3,1,gen sniff/poke,0:00,0:00,4,wt-LMO3,CTZ
+3435,M,3435M ,2,1,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,2,1,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,2,2,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,2,2,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,3,1,climbing,0:00,0:00,,Rbp4-LMO3,CTZ
+3435,M,3435M ,3,1,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ
+3435,M,3435M ,3,1,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ
+3435,M,3435M ,3,2,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3435,M,3435M ,3,2,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3436,M,3436M,2,1,direct sniff,0:00,0:00,4,wt-LMO3,CTZ
+3436,M,3436M,2,2,direct sniff,0:00,0:00,4,wt-LMO3,CTZ
+3437,F,3437F,2,1,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3437,F,3437F,2,1,direct sniff,0:00,0:00,4,Rbp4-LMO3,CTZ
+3437,F,3437F,2,2,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3437,F,3437F,2,2,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,1,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,1,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,2,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3437,F,3437F,3,2,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3438,F,3438F,2,1,climbing,0:00,0:00,4,wt-LMO3,CTZ
+3438,F,3438F,2,1,gen sniff/poke,0:00,0:00,4,wt-LMO3,CTZ
+3438,F,3438F,2,2,climbing,0:00,0:00,4,wt-LMO3,CTZ
+3438,F,3438F,2,2,gen sniff/poke,0:00,0:00,4,wt-LMO3,CTZ
+3438,F,3438F,3,1,climbing,0:00,0:00,4,wt-LMO3,CTZ
+3438,F,3438F,3,1,gen sniff/poke,0:00,0:00,4,wt-LMO3,CTZ
+3438,F,3438F,3,2,climbing,0:00,0:00,4,wt-LMO3,CTZ
+3438,F,3438F,3,2,gen sniff/poke,0:00,0:00,4,wt-LMO3,CTZ
+3439,F,3439F,2,1,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3439,F,3439F,2,2,climbing,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F,2,2,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F,2,2,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F,3,1,climbing,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F,3,1,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F,3,1,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F,3,2,climbing,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F,3,2,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F,3,2,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,1,climbing,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,1,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,1,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,2,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,2,2,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3439,F,3439F ,3,2,climbing,0:00,0:00,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,1,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,1,gen sniff/poke,0:00,0:00,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,1,direct sniff,0:00,0:00,4,Rbp4-LMO3,CTZ
+3440,F,3440F,3,1,direct sniff,0:00,0:00,4,Rbp4-LMO3,CTZ
+3441,M,3441M,2,1,climbing,0:00,0:00,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,1,gen sniff/poke,0:00,0:00,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,2,climbing,0:00,0:00,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,2,2,gen sniff/poke,0:00,0:00,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,3,1,climbing,0:00,0:00,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,3,2,climbing,0:00,0:00,5,Rbp4-LMO3,CTZ 
+3441,M,3441M,3,2,gen sniff/poke,0:00,0:00,5,Rbp4-LMO3,CTZ 
+3442,M,3442M,2,1,climbing,0:00,0:00,5,wt-LMO3,CTZ
+3442,M,3442M,2,2,climbing,0:00,0:00,5,wt-LMO3,CTZ
+3442,M,3442M,3,1,climbing,0:00,0:00,5,wt-LMO3,CTZ
+3442,M,3442M,3,1,gen sniff/poke,0:00,0:00,5,wt-LMO3,CTZ
+3442,M,3442M,3,2,climbing,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M,3,2,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M,3,2,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,2,1,climbing,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,2,1,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,2,1,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,2,2,climbing,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,2,2,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,2,2,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,3,1,climbing,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,3,1,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,3,1,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3442,M,3442M ,3,2,climbing,0:00,0:00,5,wt-LMO3,CTZ
+3444,F,3444F,3,2,climbing,0:00,0:00,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,climbing,0:00,0:00,5,wt-LMO3,CTZ
+3445,F,3445F,2,1,gen sniff/poke,0:00,0:00,5,wt-LMO3,CTZ
+3445,F,3445F,2,2,climbing,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F,2,2,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F,2,2,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F,3,1,gen sniff/poke,0:00,0:00,5,wt-LMO3,CTZ
+3445,F,3445F ,2,1,climbing,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F ,2,1,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F ,2,1,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F ,3,1,climbing,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F ,3,1,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F ,3,1,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F ,3,2,climbing,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F ,3,2,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3445,F,3445F ,3,2,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M,2,1,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3514,M,3514M,2,2,climbing,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M,2,2,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M,2,2,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M,3,1,climbing,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M,3,1,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M,3,1,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M,3,2,climbing,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M,3,2,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M,3,2,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M ,2,1,climbing,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M ,2,1,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M ,2,1,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3514,M,3514M ,2,2,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3514,M,3514M ,3,1,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3514,M,3514M ,3,2,gen sniff/poke,0:00,0:00,6,wt-LMO3,CTZ
+3515,M,3515M,2,1,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3515,M,3515M,2,1,direct sniff,0:00,0:00,6,Rbp4-LMO3,CTZ
+3515,M,3515M,2,2,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3515,M,3515M,2,2,gen sniff/poke,0:00,0:00,6,Rbp4-LMO3,CTZ
+3515,M,3515M,3,1,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3515,M,3515M,3,1,gen sniff/poke,0:00,0:00,6,Rbp4-LMO3,CTZ
+3515,M,3515M,3,2,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3515,M,3515M,3,2,direct sniff,0:00,0:00,6,Rbp4-LMO3,CTZ
+3516,M,3516M,2,1,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3516,M,3516M,2,2,gen sniff/poke,0:00,0:00,6,wt-LMO3,CTZ
+3516,M,3516M,3,1,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3516,M,3516M,3,1,gen sniff/poke,0:00,0:00,6,wt-LMO3,CTZ
+3516,M,3516M,3,2,climbing,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M,3,2,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M,3,2,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,2,1,climbing,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,2,1,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,2,1,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,2,2,climbing,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,2,2,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,2,2,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,3,1,climbing,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,3,1,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,3,1,direct sniff,0:00,0:00,,wt-LMO3,CTZ
+3516,M,3516M ,3,2,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3518,M,3518M,2,1,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3518,M,3518M,2,2,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3519,F,3519F,2,1,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3519,F,3519F,2,1,gen sniff/poke,0:00,0:00,6,wt-LMO3,CTZ
+3519,F,3519F,2,2,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3519,F,3519F,2,2,gen sniff/poke,0:00,0:00,6,wt-LMO3,CTZ
+3519,F,3519F,3,1,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3519,F,3519F,3,1,gen sniff/poke,0:00,0:00,6,wt-LMO3,CTZ
+3519,F,3519F,3,2,climbing,0:00,0:00,6,wt-LMO3,CTZ
+3520,F,3520F,2,1,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,2,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3520,F,3520F,2,2,gen sniff/poke,0:00,0:00,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,1,gen sniff/poke,0:00,0:00,6,Rbp4-LMO3,CTZ
+3520,F,3520F,3,2,climbing,0:00,0:00,6,Rbp4-LMO3,CTZ
+3521,F,3521F,2,1,gen sniff/poke,0:00,0:00,6,wt-LMO3,CTZ
+3521,F,3521F,3,1,direct sniff,0:00,0:00,6,wt-LMO3,CTZ
+3522,M,3522M ,3,1,gen sniff/poke,0:00,0:00,7,Rbp4-LMO3,CTZ
+3522,M,3522M ,3,2,direct sniff,0:00,0:00,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,1,climbing,0:00,0:00,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,1,gen sniff/poke,0:00,0:00,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,2,climbing,0:00,0:00,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,2,2,gen sniff/poke,0:00,0:00,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,1,gen sniff/poke,0:00,0:00,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,1,direct sniff,0:00,0:00,7,Rbp4-LMO3,CTZ
+3523,M,3523M ,3,2,gen sniff/poke,0:00,0:00,7,Rbp4-LMO3,CTZ
+3524,F,3524F,3,1,gen sniff/poke,0:00,0:00,7,wt-LMO3,CTZ
+3524,F,3524F,3,1,direct sniff,0:00,0:00,7,wt-LMO3,CTZ
+3524,F,3524F,3,2,gen sniff/poke,0:00,0:00,7,wt-LMO3,CTZ
+3525,F,3525F,2,2,direct sniff,0:00,0:00,7,Rbp4-LMO3,CTZ
+3551,F,3551F,2,1,gen sniff/poke,0:00,0:00,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,1,direct sniff,0:00,0:00,7,Rbp4-LMO3,CTZ
+3551,F,3551F,3,2,gen sniff/poke,0:00,0:00,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,1,gen sniff/poke,0:00,0:00,7,Rbp4-LMO3,CTZ
+3552,F,3552F,3,2,gen sniff/poke,0:00,0:00,7,Rbp4-LMO3,CTZ
+3554,M,3554M,2,2,gen sniff/poke,0:00,0:00,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,1,direct sniff,0:00,0:00,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,2,climbing,0:00,0:00,8,Rbp4-LMO3,CTZ
+3554,M,3554M,3,2,gen sniff/poke,0:00,0:00,8,Rbp4-LMO3,CTZ
+3555,M,3555M,2,1,gen sniff/poke,0:00,0:00,8,wt-LMO3,CTZ
+3555,M,3555M,2,2,climbing,0:00,0:00,8,wt-LMO3,CTZ
+3555,M,3555M,3,1,gen sniff/poke,0:00,0:00,8,wt-LMO3,CTZ
+3555,M,3555M,3,1,direct sniff,0:00,0:00,8,wt-LMO3,CTZ
+3555,M,3555M,3,2,gen sniff/poke,0:00,0:00,8,wt-LMO3,CTZ
+3556,F,3556F,2,2,gen sniff/poke,0:00,0:00,8,wt-LMO3,CTZ
+3556,F,3556F,3,1,gen sniff/poke,0:00,0:00,8,wt-LMO3,CTZ
+3556,F,3556F,3,1,direct sniff,0:00,0:00,8,wt-LMO3,CTZ
+3556,F,3556F,3,2,gen sniff/poke,0:00,0:00,8,wt-LMO3,CTZ
+3556,F,3556F,3,2,direct sniff,0:00,0:00,8,wt-LMO3,CTZ
+3557,F,3557F,2,1,gen sniff/poke,0:00,0:00,8,Rbp4-LMO3,CTZ
+3557,F,3557F,2,2,direct sniff,0:00,0:00,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,1,gen sniff/poke,0:00,0:00,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,1,direct sniff,0:00,0:00,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,2,gen sniff/poke,0:00,0:00,8,Rbp4-LMO3,CTZ
+3557,F,3557F,3,2,direct sniff,0:00,0:00,8,Rbp4-LMO3,CTZ
+3558,F,3558F,2,1,gen sniff/poke,0:00,0:00,8,wt-LMO3,CTZ
+3558,F,3558F,3,1,gen sniff/poke,0:00,0:00,8,wt-LMO3,CTZ
+3558,F,3558F,3,2,gen sniff/poke,0:00,0:00,8,wt-LMO3,CTZ
+3558,F,3558F,3,2,direct sniff,0:00,0:00,8,wt-LMO3,CTZ
+3559,F,3559F,2,1,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,2,1,direct sniff,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,2,2,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,1,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3559,F,3559F,3,2,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3560,F,3560F,2,1,climbing,0:00,0:00,9,wt-LMO3,CTZ 
+3560,F,3560F,2,1,direct sniff,0:00,0:00,9,wt-LMO3,CTZ 
+3560,F,3560F,2,2,climbing,0:00,0:00,,wt-LMO3,CTZ 
+3560,F,3560F,2,2,gen sniff/poke,0:00,0:00,,wt-LMO3,CTZ 
+3560,F,3560F,2,2,direct sniff,0:00,0:00,,wt-LMO3,CTZ 
+3560,F,3560F,3,1,gen sniff/poke,0:00,0:00,9,wt-LMO3,CTZ 
+3560,F,3560F,3,2,gen sniff/poke,0:00,0:00,9,wt-LMO3,CTZ 
+3561,M,3561M,2,1,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3561,M,3561M,3,2,direct sniff,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,2,2,direct sniff,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,1,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,1,direct sniff,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,2,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3564,F,3564F,3,2,direct sniff,0:00,0:00,9,Rbp4-LMO3,CTZ 
+3562,F,3562F,2,1,climbing,0:00,0:00,,Rbp4-LMO3,CTZ
+3562,F,3562F,2,1,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ
+3562,F,3562F,2,1,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ
+3562,F,3562F,2,2,climbing,0:00,0:00,,Rbp4-LMO3,CTZ
+3562,F,3562F,2,2,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ
+3562,F,3562F,2,2,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ
+3562,F,3562F,3,1,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ
+3563,F,3563F,2,2,gen sniff/poke,0:00,0:00,9,wt-LMO3,CTZ 
+3563,F,3563F,3,1,gen sniff/poke,0:00,0:00,9,wt-LMO3,CTZ 
+3563,F,3563F,3,2,gen sniff/poke,0:00,0:00,9,wt-LMO3,CTZ 
+3565,F,3565F,2,1,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,1,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ
+3565,F,3565F,3,2,gen sniff/poke,0:00,0:00,9,Rbp4-LMO3,CTZ
+2806,F,2806F,2,1,gen sniff/poke,0:00,0:00,10,Rbp4-LMO3,CTZ 
+2806,F,2806F,3,1,climbing,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F,2806F,3,1,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F,2806F,3,1,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F,2806F,3,2,climbing,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F,2806F,3,2,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F,2806F,3,2,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F, 2806F,2,1,climbing,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F, 2806F,2,1,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F, 2806F,2,1,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F, 2806F,2,2,climbing,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F, 2806F,2,2,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F, 2806F,2,2,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,1,direct sniff,0:00,0:00,10,Rbp4-LMO3,CTZ 
+2806,F, 2806F,3,2,gen sniff/poke,0:00,0:00,10,Rbp4-LMO3,CTZ 
+2808,F,2808F,2,1,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
+2808,F,2808F,2,1,direct sniff,0:00,0:00,10,wt-LMO3,CTZ 
+2808,F,2808F,3,1,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
+2808,F,2808F,3,1,direct sniff,0:00,0:00,10,wt-LMO3,CTZ 
+2808,F,2808F,3,2,direct sniff,0:00,0:00,g,wt-LMO3,CTZ 
+2809,F,2809F,3,2,gen sniff/poke,0:00,0:00,10,Rbp4-LMO3,CTZ
+2838,F,2838F,2,1,direct sniff,0:00,0:00,10,wt-LMO3,CTZ 
+2838,F,2838F,3,1,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
+2838,F,2838F,3,1,direct sniff,0:00,0:00,10,wt-LMO3,CTZ 
+2838,F,2838F,3,2,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
+2839,F,2839F,2,1,gen sniff/poke,0:00,0:00,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,1,gen sniff/poke,0:00,0:00,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,1,direct sniff,0:00,0:00,10,Rbp4-LMO3,CTZ 
+2839,F,2839F,3,2,direct sniff,0:00,0:00,10,Rbp4-LMO3,CTZ 
+3548,M,3548M,2,1,gen sniff/poke,0:00,0:00,10,Rbp4-LMO3,CTZ
+3548,M,3548M,2,2,gen sniff/poke,0:00,0:00,10,Rbp4-LMO3,CTZ
+3548,M,3548M,3,1,climbing,0:00,0:00,,Rbp4-LMO3,CTZ
+3548,M,3548M,3,1,gen sniff/poke,0:00,0:00,,Rbp4-LMO3,CTZ
+3548,M,3548M,3,1,direct sniff,0:00,0:00,,Rbp4-LMO3,CTZ
+3548,M,3548M,3,2,gen sniff/poke,0:00,0:00,10,Rbp4-LMO3,CTZ
+3549,M,3549M,2,1,climbing,0:00,0:00,10,wt-LMO3,CTZ 
+3549,M,3549M,2,2,climbing,0:00,0:00,10,wt-LMO3,CTZ 
+3549,M,3549M,2,2,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
+3549,M,3549M,3,1,climbing,0:00,0:00,10,wt-LMO3,CTZ 
+3549,M,3549M,3,1,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
+3549,M,3549M,3,2,climbing,0:00,0:00,10,wt-LMO3,CTZ 
+3549,M,3549M,3,2,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
+3550,M,3550M,2,1,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
+3550,M,3550M,2,1,direct sniff,0:00,0:00,10,wt-LMO3,CTZ 
+3550,M,3550M,2,2,direct sniff,0:00,0:00,10,wt-LMO3,CTZ 
+3550,M,3550M,3,1,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
+3550,M,3550M,3,1,direct sniff,0:00,0:00,10,wt-LMO3,CTZ 
+3550,M,3550M,3,2,gen sniff/poke,0:00,0:00,10,wt-LMO3,CTZ 
